@@ -1,5 +1,5 @@
 ---
 # this file can be encrypted with ansible-vault
 
-ec2_access_key: XXXXXXXXXXXX 
-ec2_secret_key: YYYYYYYYYYYYYYYYYYYYYYY
+ec2_access_key: AKIARUDT5SPERB3NA7ZK 
+ec2_secret_key: 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
